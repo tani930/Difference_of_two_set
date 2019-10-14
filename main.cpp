@@ -19,7 +19,7 @@ void main()
         scanf("%d",&b[i]);
     }
     printf("A-B: ");
-
+    i=0;
     for( ;i<n; )
     {
         d=0;
